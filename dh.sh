@@ -1,1 +1,0 @@
-mysql --user="jhfrye" --password="q.6u+0T9sdhU" db_jhfrye
